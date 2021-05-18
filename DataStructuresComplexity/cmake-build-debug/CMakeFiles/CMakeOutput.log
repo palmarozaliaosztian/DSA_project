@@ -10,39 +10,39 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
-The C compiler identification is GNU, found in "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe"
+The C compiler identification is GNU, found in "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe cmTC_deb78/fast && C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_deb78.dir\build.make CMakeFiles/cmTC_deb78.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_deb78.dir/testCCompiler.c.obj
-C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_deb78.dir\testCCompiler.c.obj   -c C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
-Linking C executable cmTC_deb78.exe
-"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_deb78.dir\link.txt --verbose=1
-"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_deb78.dir/objects.a
-C:\Coding\OJI\Codeblocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_deb78.dir/objects.a @CMakeFiles\cmTC_deb78.dir\objects1.rsp
-C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_deb78.dir/objects.a -Wl,--no-whole-archive  -o cmTC_deb78.exe -Wl,--out-implib,libcmTC_deb78.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_deb78.dir\linklibs.rsp
-mingw32-make.exe[1]: Leaving directory 'C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command(s):C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe cmTC_05b66/fast && C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_05b66.dir\build.make CMakeFiles/cmTC_05b66.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_05b66.dir/testCCompiler.c.obj
+C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_05b66.dir\testCCompiler.c.obj   -c C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_05b66.exe
+"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_05b66.dir\link.txt --verbose=1
+"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_05b66.dir/objects.a
+C:\Coding\OJI\Codeblocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_05b66.dir/objects.a @CMakeFiles\cmTC_05b66.dir\objects1.rsp
+C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_05b66.dir/objects.a -Wl,--no-whole-archive  -o cmTC_05b66.exe -Wl,--out-implib,libcmTC_05b66.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_05b66.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe cmTC_009e0/fast && C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_009e0.dir\build.make CMakeFiles/cmTC_009e0.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_009e0.dir/CMakeCCompilerABI.c.obj
-C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe   -v -o CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj   -c "C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c"
+Run Build Command(s):C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe cmTC_51726/fast && C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_51726.dir\build.make CMakeFiles/cmTC_51726.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_51726.dir/CMakeCCompilerABI.c.obj
+C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe   -v -o CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj   -c "C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c"
 Using built-in specs.
 COLLECT_GCC=C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe
 Target: mingw32
 Configured with: ../../../src/gcc-4.9.2/configure --build=mingw32 --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --disable-symvers --enable-cxx-flags='-fno-function-sections -fno-data-sections -DWINPTHREAD_STATIC' --prefix=/mingw32tdm --with-local-prefix=/mingw32tdm --with-pkgversion=tdm-1 --enable-sjlj-exceptions --with-bugurl=http://tdm-gcc.tdragon.net/bugs
 Thread model: posix
 gcc version 4.9.2 (tdm-1) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro'
- C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/cc1.exe -quiet -v -iprefix C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/ -D_REENTRANT C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=pentiumpro -auxbase-strip CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\palma\AppData\Local\Temp\ccKE9iaB.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro'
+ C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/cc1.exe -quiet -v -iprefix C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/ -D_REENTRANT C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=pentiumpro -auxbase-strip CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\palma\AppData\Local\Temp\ccGoCurm.s
 GNU C (tdm-1) version 4.9.2 (mingw32)
 	compiled by GNU C version 4.9.2, GMP version 4.3.2, MPFR version 2.4.2, MPC version 0.8.2
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -61,17 +61,17 @@ GNU C (tdm-1) version 4.9.2 (mingw32)
 	compiled by GNU C version 4.9.2, GMP version 4.3.2, MPFR version 2.4.2, MPC version 0.8.2
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: de04c17d724f939400db79fc48f27ec5
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro'
- C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj C:\Users\palma\AppData\Local\Temp\ccKE9iaB.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro'
+ C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj C:\Users\palma\AppData\Local\Temp\ccGoCurm.s
 GNU assembler version 2.24 (mingw32) using BFD version (GNU Binutils) 2.24
 COMPILER_PATH=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/;C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/
 LIBRARY_PATH=C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro'
-Linking C executable cmTC_009e0.exe
-"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_009e0.dir\link.txt --verbose=1
-"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_009e0.dir/objects.a
-C:\Coding\OJI\Codeblocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_009e0.dir/objects.a @CMakeFiles\cmTC_009e0.dir\objects1.rsp
-C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_009e0.dir/objects.a -Wl,--no-whole-archive  -o cmTC_009e0.exe -Wl,--out-implib,libcmTC_009e0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro'
+Linking C executable cmTC_51726.exe
+"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_51726.dir\link.txt --verbose=1
+"C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_51726.dir/objects.a
+C:\Coding\OJI\Codeblocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_51726.dir/objects.a @CMakeFiles\cmTC_51726.dir\objects1.rsp
+C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_51726.dir/objects.a -Wl,--no-whole-archive  -o cmTC_51726.exe -Wl,--out-implib,libcmTC_51726.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe
 COLLECT_LTO_WRAPPER=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe
@@ -81,9 +81,9 @@ Thread model: posix
 gcc version 4.9.2 (tdm-1) 
 COMPILER_PATH=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/;C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/
 LIBRARY_PATH=C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/;C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_009e0.exe' '-mtune=generic' '-march=pentiumpro'
- C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\palma\AppData\Local\Temp\cclxREqK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_009e0.exe C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_009e0.dir/objects.a --no-whole-archive --out-implib libcmTC_009e0.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o
-mingw32-make.exe[1]: Leaving directory 'C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_51726.exe' '-mtune=generic' '-march=pentiumpro'
+ C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\palma\AppData\Local\Temp\cc9upWeA.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_51726.exe C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_51726.dir/objects.a --no-whole-archive --out-implib libcmTC_51726.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o
+mingw32-make.exe[1]: Leaving directory 'C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 
@@ -102,20 +102,20 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe cmTC_009e0/fast && C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_009e0.dir\build.make CMakeFiles/cmTC_009e0.dir/build]
-  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_009e0.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe   -v -o CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj   -c "C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Run Build Command(s):C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe cmTC_51726/fast && C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_51726.dir\build.make CMakeFiles/cmTC_51726.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_51726.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe   -v -o CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj   -c "C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c"]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe]
   ignore line: [Target: mingw32]
   ignore line: [Configured with: ../../../src/gcc-4.9.2/configure --build=mingw32 --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --disable-symvers --enable-cxx-flags='-fno-function-sections -fno-data-sections -DWINPTHREAD_STATIC' --prefix=/mingw32tdm --with-local-prefix=/mingw32tdm --with-pkgversion=tdm-1 --enable-sjlj-exceptions --with-bugurl=http://tdm-gcc.tdragon.net/bugs]
   ignore line: [Thread model: posix]
   ignore line: [gcc version 4.9.2 (tdm-1) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro']
-  ignore line: [ C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/cc1.exe -quiet -v -iprefix C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/ -D_REENTRANT C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=pentiumpro -auxbase-strip CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\palma\AppData\Local\Temp\ccKE9iaB.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro']
+  ignore line: [ C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/cc1.exe -quiet -v -iprefix C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/ -D_REENTRANT C:\Coding\CLion 2020.3.2\bin\cmake\win\share\cmake-3.17\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=pentiumpro -auxbase-strip CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\palma\AppData\Local\Temp\ccGoCurm.s]
   ignore line: [GNU C (tdm-1) version 4.9.2 (mingw32)]
   ignore line: [	compiled by GNU C version 4.9.2  GMP version 4.3.2  MPFR version 2.4.2  MPC version 0.8.2]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -134,8 +134,8 @@ Parsed C implicit link information from above output:
   ignore line: [	compiled by GNU C version 4.9.2  GMP version 4.3.2  MPFR version 2.4.2  MPC version 0.8.2]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: de04c17d724f939400db79fc48f27ec5]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro']
-  ignore line: [ C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj C:\Users\palma\AppData\Local\Temp\ccKE9iaB.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro']
+  ignore line: [ C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj C:\Users\palma\AppData\Local\Temp\ccGoCurm.s]
   ignore line: [GNU assembler version 2.24 (mingw32) using BFD version (GNU Binutils) 2.24]
   ignore line: [COMPILER_PATH=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/]
   ignore line: [C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/]
@@ -144,12 +144,12 @@ Parsed C implicit link information from above output:
   ignore line: [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/]
   ignore line: [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/]
   ignore line: [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_009e0.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro']
-  ignore line: [Linking C executable cmTC_009e0.exe]
-  ignore line: ["C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_009e0.dir\link.txt --verbose=1]
-  ignore line: ["C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_009e0.dir/objects.a]
-  ignore line: [C:\Coding\OJI\Codeblocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_009e0.dir/objects.a @CMakeFiles\cmTC_009e0.dir\objects1.rsp]
-  ignore line: [C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe     -v -Wl --whole-archive CMakeFiles\cmTC_009e0.dir/objects.a -Wl --no-whole-archive  -o cmTC_009e0.exe -Wl --out-implib libcmTC_009e0.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_51726.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro']
+  ignore line: [Linking C executable cmTC_51726.exe]
+  ignore line: ["C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_51726.dir\link.txt --verbose=1]
+  ignore line: ["C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_51726.dir/objects.a]
+  ignore line: [C:\Coding\OJI\Codeblocks\MinGW\bin\ar.exe cr CMakeFiles\cmTC_51726.dir/objects.a @CMakeFiles\cmTC_51726.dir\objects1.rsp]
+  ignore line: [C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe     -v -Wl --whole-archive CMakeFiles\cmTC_51726.dir/objects.a -Wl --no-whole-archive  -o cmTC_51726.exe -Wl --out-implib libcmTC_51726.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe]
@@ -164,13 +164,13 @@ Parsed C implicit link information from above output:
   ignore line: [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/]
   ignore line: [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib/]
   ignore line: [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_009e0.exe' '-mtune=generic' '-march=pentiumpro']
-  link line: [ C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\palma\AppData\Local\Temp\cclxREqK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_009e0.exe C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_009e0.dir/objects.a --no-whole-archive --out-implib libcmTC_009e0.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_51726.exe' '-mtune=generic' '-march=pentiumpro']
+  link line: [ C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe -plugin C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\palma\AppData\Local\Temp\cc9upWeA.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --exclude-libs=libpthread.a -Bdynamic -o cmTC_51726.exe C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2 -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib -LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../.. --whole-archive CMakeFiles\cmTC_51726.dir/objects.a --no-whole-archive --out-implib libcmTC_51726.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtend.o]
     arg [C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/liblto_plugin-0.dll] ==> ignore
     arg [-plugin-opt=C:/Coding/OJI/Codeblocks/MinGW/bin/../libexec/gcc/mingw32/4.9.2/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\palma\AppData\Local\Temp\cclxREqK.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\palma\AppData\Local\Temp\cc9upWeA.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
@@ -189,7 +189,7 @@ Parsed C implicit link information from above output:
     arg [--exclude-libs=libpthread.a] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_009e0.exe] ==> ignore
+    arg [cmTC_51726.exe] ==> ignore
     arg [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../crt2.o] ==> ignore
     arg [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/crtbegin.o] ==> ignore
     arg [-LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2] ==> dir [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2]
@@ -197,10 +197,10 @@ Parsed C implicit link information from above output:
     arg [-LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib] ==> dir [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../mingw32/lib]
     arg [-LC:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../..] ==> dir [C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_009e0.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_51726.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_009e0.dll.a] ==> ignore
+    arg [libcmTC_51726.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore

@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug"/>
+				<Option working_dir="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DataStructuresComplexity">
-				<Option output="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/DataStructuresComplexity.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug"/>
+				<Option output="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/DataStructuresComplexity.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -29,15 +29,15 @@
 					<Add directory="C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructuresComplexity"/>
-					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructuresComplexity"/>
+					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DataStructuresComplexity/fast">
-				<Option output="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/DataStructuresComplexity.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug"/>
+				<Option output="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/DataStructuresComplexity.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -47,55 +47,55 @@
 					<Add directory="C:/Coding/OJI/Codeblocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructuresComplexity/fast"/>
-					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructuresComplexity/fast"/>
+					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug"/>
+				<Option working_dir="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug"/>
+				<Option working_dir="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Coding/OJI/Codeblocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Array.c">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Array.c">
 			<Option target="DataStructuresComplexity"/>
 		</Unit>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Array.h">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Array.h">
 			<Option target="DataStructuresComplexity"/>
 		</Unit>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Results.c">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Results.c">
 			<Option target="DataStructuresComplexity"/>
 		</Unit>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Results.h">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Results.h">
 			<Option target="DataStructuresComplexity"/>
 		</Unit>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Word.c">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Word.c">
 			<Option target="DataStructuresComplexity"/>
 		</Unit>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Word.h">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Word.h">
 			<Option target="DataStructuresComplexity"/>
 		</Unit>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/main.c">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/main.c">
 			<Option target="DataStructuresComplexity"/>
 		</Unit>
-		<Unit filename="C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/CMakeLists.txt">
+		<Unit filename="C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

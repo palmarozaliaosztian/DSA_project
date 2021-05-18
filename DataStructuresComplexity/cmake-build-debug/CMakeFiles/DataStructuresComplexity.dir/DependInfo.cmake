@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Array.c" "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/Array.c.obj"
-  "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Results.c" "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/Results.c.obj"
-  "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/Word.c" "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/Word.c.obj"
-  "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/main.c" "C:/Users/palma/Documents/GitHub/DSA_labs/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/main.c.obj"
+  "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Array.c" "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/Array.c.obj"
+  "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Results.c" "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/Results.c.obj"
+  "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/Word.c" "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/Word.c.obj"
+  "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/main.c" "C:/Users/palma/OneDrive/Documents/GitHub/DSA_project/DataStructuresComplexity/cmake-build-debug/CMakeFiles/DataStructuresComplexity.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -62,10 +62,10 @@ RM = "C:\Coding\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity
+CMAKE_SOURCE_DIR = C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/DataStructuresComplexity.dir/depend.make
@@ -78,55 +78,55 @@ include CMakeFiles/DataStructuresComplexity.dir/flags.make
 
 CMakeFiles/DataStructuresComplexity.dir/main.c.obj: CMakeFiles/DataStructuresComplexity.dir/flags.make
 CMakeFiles/DataStructuresComplexity.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructuresComplexity.dir/main.c.obj"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\main.c.obj   -c C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructuresComplexity.dir/main.c.obj"
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\main.c.obj   -c C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\main.c
 
 CMakeFiles/DataStructuresComplexity.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructuresComplexity.dir/main.c.i"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\main.c > CMakeFiles\DataStructuresComplexity.dir\main.c.i
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\main.c > CMakeFiles\DataStructuresComplexity.dir\main.c.i
 
 CMakeFiles/DataStructuresComplexity.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructuresComplexity.dir/main.c.s"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\main.c -o CMakeFiles\DataStructuresComplexity.dir\main.c.s
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\main.c -o CMakeFiles\DataStructuresComplexity.dir\main.c.s
 
 CMakeFiles/DataStructuresComplexity.dir/Array.c.obj: CMakeFiles/DataStructuresComplexity.dir/flags.make
 CMakeFiles/DataStructuresComplexity.dir/Array.c.obj: ../Array.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/DataStructuresComplexity.dir/Array.c.obj"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\Array.c.obj   -c C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Array.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/DataStructuresComplexity.dir/Array.c.obj"
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\Array.c.obj   -c C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Array.c
 
 CMakeFiles/DataStructuresComplexity.dir/Array.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructuresComplexity.dir/Array.c.i"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Array.c > CMakeFiles\DataStructuresComplexity.dir\Array.c.i
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Array.c > CMakeFiles\DataStructuresComplexity.dir\Array.c.i
 
 CMakeFiles/DataStructuresComplexity.dir/Array.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructuresComplexity.dir/Array.c.s"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Array.c -o CMakeFiles\DataStructuresComplexity.dir\Array.c.s
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Array.c -o CMakeFiles\DataStructuresComplexity.dir\Array.c.s
 
 CMakeFiles/DataStructuresComplexity.dir/Word.c.obj: CMakeFiles/DataStructuresComplexity.dir/flags.make
 CMakeFiles/DataStructuresComplexity.dir/Word.c.obj: ../Word.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/DataStructuresComplexity.dir/Word.c.obj"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\Word.c.obj   -c C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Word.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/DataStructuresComplexity.dir/Word.c.obj"
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\Word.c.obj   -c C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Word.c
 
 CMakeFiles/DataStructuresComplexity.dir/Word.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructuresComplexity.dir/Word.c.i"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Word.c > CMakeFiles\DataStructuresComplexity.dir\Word.c.i
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Word.c > CMakeFiles\DataStructuresComplexity.dir\Word.c.i
 
 CMakeFiles/DataStructuresComplexity.dir/Word.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructuresComplexity.dir/Word.c.s"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Word.c -o CMakeFiles\DataStructuresComplexity.dir\Word.c.s
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Word.c -o CMakeFiles\DataStructuresComplexity.dir\Word.c.s
 
 CMakeFiles/DataStructuresComplexity.dir/Results.c.obj: CMakeFiles/DataStructuresComplexity.dir/flags.make
 CMakeFiles/DataStructuresComplexity.dir/Results.c.obj: ../Results.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/DataStructuresComplexity.dir/Results.c.obj"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\Results.c.obj   -c C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Results.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/DataStructuresComplexity.dir/Results.c.obj"
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructuresComplexity.dir\Results.c.obj   -c C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Results.c
 
 CMakeFiles/DataStructuresComplexity.dir/Results.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructuresComplexity.dir/Results.c.i"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Results.c > CMakeFiles\DataStructuresComplexity.dir\Results.c.i
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Results.c > CMakeFiles\DataStructuresComplexity.dir\Results.c.i
 
 CMakeFiles/DataStructuresComplexity.dir/Results.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructuresComplexity.dir/Results.c.s"
-	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\Results.c -o CMakeFiles\DataStructuresComplexity.dir\Results.c.s
+	C:\Coding\OJI\Codeblocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\Results.c -o CMakeFiles\DataStructuresComplexity.dir\Results.c.s
 
 # Object files for target DataStructuresComplexity
 DataStructuresComplexity_OBJECTS = \
@@ -146,7 +146,7 @@ DataStructuresComplexity.exe: CMakeFiles/DataStructuresComplexity.dir/build.make
 DataStructuresComplexity.exe: CMakeFiles/DataStructuresComplexity.dir/linklibs.rsp
 DataStructuresComplexity.exe: CMakeFiles/DataStructuresComplexity.dir/objects1.rsp
 DataStructuresComplexity.exe: CMakeFiles/DataStructuresComplexity.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable DataStructuresComplexity.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable DataStructuresComplexity.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStructuresComplexity.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -159,6 +159,6 @@ CMakeFiles/DataStructuresComplexity.dir/clean:
 .PHONY : CMakeFiles/DataStructuresComplexity.dir/clean
 
 CMakeFiles/DataStructuresComplexity.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug C:\Users\palma\Documents\GitHub\DSA_labs\DataStructuresComplexity\cmake-build-debug\CMakeFiles\DataStructuresComplexity.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug C:\Users\palma\OneDrive\Documents\GitHub\DSA_project\DataStructuresComplexity\cmake-build-debug\CMakeFiles\DataStructuresComplexity.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/DataStructuresComplexity.dir/depend
 

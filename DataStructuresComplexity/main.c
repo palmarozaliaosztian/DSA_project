@@ -246,7 +246,7 @@ void measureSearchComplexity() {
 
 double calculateAverageTime(enum DSType type, Word word, enum Operation operation, int index) {
 
-    int counter = 10;
+    int counter = 11;
     double  avgResult = 0;
     switch (type) {
         case ArrayType:
@@ -317,6 +317,6 @@ double calculateAverageTime(enum DSType type, Word word, enum Operation operatio
             printf("Invalid data structure\n");
             break;
     }
-    return avgResult / counter;
+    return avgResult / (counter-1);
 
 }
